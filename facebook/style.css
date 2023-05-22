@@ -1,0 +1,105 @@
+*{
+    background-color: #f0f2f5;
+}
+
+.lft {
+background-color: #f0f2f5;
+font-family: Helvetica, Arial, sans-serif;
+font-size: 24px;
+padding-left: 10%;
+padding-top: 13%;
+position: absolute;
+margin-top: 28;
+}
+.text{
+    margin: 0% auto;
+    font-size: 24px;
+    padding: 0px 30px ;
+    /* padding-bottom: 20%; */
+    margin-top: -15px;
+}
+.right{
+    background-color: black;
+    background: none;
+    border: 0;
+    box-shadow: none;
+    float: left;
+    font-size: 17px;
+    padding: 0;
+    width: 300px;
+}
+
+form{
+    background-color: white ;
+    width: 396px ;
+    height: 365px;
+    border-radius: 8px;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 10%);
+    margin-left: 800px;
+    margin-top: 135px;
+    padding: 20px;
+    position: relative;
+    }
+
+.user, .pws{
+   display: block;
+   width: 89%;
+  
+   margin: 5px 0px 0px 5px;
+   padding: 14px 10px;
+   background-color: white;
+   outline: none;
+   border-color: none;
+   text-decoration: none;
+   border-radius: 5px;
+   align-items: center;
+   border: 1.5px solid rgb(200, 200, 200);
+   font-size: 20px;
+   font-family:  Helvetica, Arial, sans-serif;
+   color: #1c1e21;
+
+}  
+
+button{
+    border: none;
+    background-color: #1877f2;
+    color: #f0f2f5;
+    display: block;
+    margin: 5px 0px 0px 5px;
+    width: 95%;
+    padding: 14px 10px;
+    font-size: 20px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    
+}
+.fpws{
+    background-color:white;
+    display: block;
+    width: 95%;
+    padding: 14px 10px;
+    text-decoration: none;
+    box-shadow: 0px 1px 0.5px rgb(168, 162, 162);
+    text-align: center;
+    font-size: 14px;
+    font-family: Helvetica, Arial, sans-serif ;
+    color: #1877f2;
+    margin-bottom: 15px;
+    
+}
+
+.new-acc{
+
+    background-color: #42b72a;
+    color: white;
+    display: block;
+    width: 50%;
+    font-size: 18px;
+    margin: auto;
+    font-weight: bold;
+    padding:auto;
+    font-family: Helvetica, Arial, sans-serif;
+}
